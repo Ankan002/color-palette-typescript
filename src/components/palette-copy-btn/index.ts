@@ -1,0 +1,1 @@
+export { default as PaletteCopyBtn } from "./palette-copy-btn";
